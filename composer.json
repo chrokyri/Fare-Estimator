@@ -1,0 +1,13 @@
+{
+  "name": "FareEstimator",
+  "description": "TaxiBeat_Challenge",
+  "authors": [
+    {
+      "name": "Kyriakidis Chronis",
+      "email": "kyriakidischronis@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  }
+}
