@@ -1,6 +1,6 @@
 # Fare Estimator
 
-Fare estimator application receives a CSV file, which comprises the coordinates for all rides and calculate the fare foreach ride.
+Fare estimator application receives a CSV file, which comprises the coordinates for all rides and calculate the fare foreach ride using haversine formula.
 
 Fare Estimator requires [PHP](http://php.net/) to run.
 Download and extract the [latest pre-built release](http://php.net/releases/).
