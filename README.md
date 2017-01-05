@@ -15,7 +15,7 @@ Install the dependencies to run unit tests.
 $ php composer.phar install
 ```
 
-Diagram
+### Diagram
 ![Alt text](https://github.com/chrokyri/Fare-Estimator/blob/master/img.jpg "Fare Estimator")
 
 License
