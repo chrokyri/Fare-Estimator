@@ -16,7 +16,7 @@ $ php composer.phar install
 ```
 
 ### Diagram
-![Alt text](https://github.com/chrokyri/Fare-Estimator/blob/master/img.jpg "Fare Estimator")
+![Alt text](https://github.com/chrokyri/Fare-Estimator/blob/master/fareEstimatorPicture.jpg "Fare Estimator")
 
 License
 ----
